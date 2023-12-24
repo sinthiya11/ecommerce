@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sinthiya11/ecommerce/static/css/main.60cf215e.css",
+    "main.js": "/sinthiya11/ecommerce/static/js/main.bad8e85f.js",
+    "static/js/787.866a9283.chunk.js": "/sinthiya11/ecommerce/static/js/787.866a9283.chunk.js",
+    "index.html": "/sinthiya11/ecommerce/index.html",
+    "main.60cf215e.css.map": "/sinthiya11/ecommerce/static/css/main.60cf215e.css.map",
+    "main.bad8e85f.js.map": "/sinthiya11/ecommerce/static/js/main.bad8e85f.js.map",
+    "787.866a9283.chunk.js.map": "/sinthiya11/ecommerce/static/js/787.866a9283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60cf215e.css",
+    "static/js/main.bad8e85f.js"
+  ]
+}
